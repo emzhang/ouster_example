@@ -3,7 +3,7 @@
 ## Contents
 * `ouster_client/` contains a simple C++ client for the OS1 sensor
 * can be built both with and without ROS. See the instructions in
-  `ouster_ros` for building in a ROS environment
+  [ouster_ros/](../ouster_ros/README.md) for building in a ROS environment
 
 ## Building the Sample Client
 * The sample client requires a compiler supporting C++11 or newer and
