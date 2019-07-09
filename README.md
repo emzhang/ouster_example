@@ -1,4 +1,4 @@
-# OS-1 Example Code
+# OS1 Example Code
 Sample code for connecting to and configuring the OS-1, reading and visualizing
 data, and interfacing with ROS.
 
